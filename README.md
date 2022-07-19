@@ -50,7 +50,7 @@ https://github.com/CosmWasm/cw-plus/tree/main/contracts
 ```
 {
   "send": {
-    "contract": "juno1qrhrjhln673kf0v4r2yn4d0nuh029gacp2zjk74nen27wh7xw48spl4an8",
+    "contract": "juno16gckhheyql9f85r9ydmazdccc0pnwxx5xxxrwltygtx3kxjg57ksamkpym",
     "amount": "100000000",
     "msg": "<encoded-message>"
   }
@@ -62,9 +62,9 @@ https://github.com/CosmWasm/cw-plus/tree/main/contracts
 
 {
   "send": {
-    "contract": "juno1qrhrjhln673kf0v4r2yn4d0nuh029gacp2zjk74nen27wh7xw48spl4an8",
+    "contract": "juno16gckhheyql9f85r9ydmazdccc0pnwxx5xxxrwltygtx3kxjg57ksamkpym",
     "amount": "100000000",
-    "msg": "eyJjaGFubmVsIjoiY2hhbm5lbC03NiIsInJlbW90ZV9hZGRyZXNzIjoia3VqaXJhMXhlc3FyOHZqdnkzNGpodTAyN3pkNzB5cGwwbm5ldjVlaDQycHJwIn0="
+    "msg": "eyJjaGFubmVsIjoiY2hhbm5lbC03OSIsInJlbW90ZV9hZGRyZXNzIjoianVubzFmcmFycWV4c3k1bTgyZGw3YzM5anhmNm5reGZ5dHJ0MHJqc3J1ZSJ9"
   }
 }
 ```
