@@ -8,11 +8,21 @@ Testnet CW20-ICS20 IBC Relayer
 ## Links
 
 ```
-https://blueprints.juno.giansalex.dev/#/contracts/juno16gckhheyql9f85r9ydmazdccc0pnwxx5xxxrwltygtx3kxjg57ksamkpym
-https://junomint.com/
-https://www.base64encode.org/
-https://github.com/CosmWasm/cw-plus/tree/main/contracts
+# Add Sei atlantic-1 to Keplr Wallet
 https://testnets.cosmosrun.info/
+
+# Add Juno uni-3 to Keplr Wallet and also Create a CW20 token
+https://junomint.com/
+
+# Allow CW20 token contract address and Send CW20 token using following link
+https://blueprints.juno.giansalex.dev/#/contracts/juno16gckhheyql9f85r9ydmazdccc0pnwxx5xxxrwltygtx3kxjg57ksamkpym
+
+# Encode / Decode base64
+https://www.base64encode.org/
+
+# CSW-ICS20 Contract
+https://github.com/CosmWasm/cw-plus/tree/main/contracts
+
 ```
 
 ## Allow Code
