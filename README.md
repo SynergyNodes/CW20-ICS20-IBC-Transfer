@@ -64,7 +64,7 @@ https://github.com/CosmWasm/cw-plus/tree/main/contracts
   "send": {
     "contract": "juno16gckhheyql9f85r9ydmazdccc0pnwxx5xxxrwltygtx3kxjg57ksamkpym",
     "amount": "100000000",
-    "msg": "eyJjaGFubmVsIjoiY2hhbm5lbC03OSIsInJlbW90ZV9hZGRyZXNzIjoianVubzFmcmFycWV4c3k1bTgyZGw3YzM5anhmNm5reGZ5dHJ0MHJqc3J1ZSJ9"
+    "msg": "eyJjaGFubmVsIjoiY2hhbm5lbC03OSIsInJlbW90ZV9hZGRyZXNzIjoic2VpMWZyYXJxZXhzeTVtODJkbDdjMzlqeGY2bmt4Znl0cnQwY3Z6d2F5In0="
   }
 }
 ```
