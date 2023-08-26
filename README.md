@@ -1,9 +1,9 @@
 # CW20-ICS20-IBC-Transfer
 Testnet CW20-ICS20 IBC Relayer
 
-[![Testnet CW20 transfer from Juno to Sei](https://www.synergynodes.com/youtube/Synergy_Nodes_CW20_transfer.jpg)]
+[![Testnet CW20 transfer from Juno to Sei](https://backups.synergynodes.com/youtube/Synergy_Nodes_CW20_transfer.jpg)]
 
-[![Testnet CW20 transfer from Juno to Sei](https://www.synergynodes.com/youtube/Synergy_Nodes_CW20-ICS20.jpg)]
+[![Testnet CW20 transfer from Juno to Sei](https://backups.synergynodes.com/youtube/Synergy_Nodes_CW20-ICS20.jpg)]
 
 ## Links
 
